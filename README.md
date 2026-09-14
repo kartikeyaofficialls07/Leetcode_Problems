@@ -11,8 +11,13 @@ LeetCode solutions and DSA practice repository. Documenting my problem-solving j
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kartikeyaofficialls07/Leetcode_Problems/tree/master/0001-two-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/kartikeyaofficialls07/Leetcode_Problems/tree/master/0643-maximum-average-subarray-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kartikeyaofficialls07/Leetcode_Problems/tree/master/0001-two-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/kartikeyaofficialls07/Leetcode_Problems/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
